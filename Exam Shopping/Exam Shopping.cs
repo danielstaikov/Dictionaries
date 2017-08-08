@@ -30,33 +30,42 @@ namespace Exam_Shopping
                         {
                             words[inputWord[1]] = words[inputWord[1]] + value;
                         }
-                        words[inputWord[1]] = value;
+                        else
+                        {
+                            words[inputWord[1]] = value;
+                        }
+                        
                     }
-                    else // Това не работи. не смята правилно.
+                    else 
                     {
                         if (words.ContainsKey(inputWord[1]))
                         {
-                            words[inputWord[1]] = words[inputWord[1]] - value;
+                            if (words[inputWord[1]]>0)
+                            {
+                                words[inputWord[1]] = words[inputWord[1]] - value;
+                            }
+                            else
+                            {
+                                Console.WriteLine($"{inputWord[1]} out of stock");
+                            }
+                            
                         }
                         else
                         {
                             Console.WriteLine($"{inputWord[1]} doesn't exist");
                         }
-
                     }
-
-
                 }
-
-
 
             } while (inputString != "exam time");
 
             foreach (string key in words.Keys)
             {
-                Console.WriteLine($"{key} -> {words[key]}");
+                if (words[key]>0)
+                {
+                    Console.WriteLine($"{key} -> {words[key]}");
+                }
             }
-
         }
     }
 }
