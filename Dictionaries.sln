@@ -27,6 +27,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested Dictionaries 2.0", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested Dictionaries 3.0", "Nested Dictionaries 3.0\Nested Dictionaries 3.0.csproj", "{3C42E6DA-2848-4B9D-82BB-7109D544AF13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested Dictionaries 4.0", "Nested Dictionaries 4.0\Nested Dictionaries 4.0.csproj", "{7FCCF0B6-99D6-4E17-B137-4F0429D8F498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSet 1.0", "HashSet 1.0\HashSet 1.0.csproj", "{FF8A682C-B618-4ED6-A9F2-C0E1649C493E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedSet", "SortedSet\SortedSet.csproj", "{DFE2B235-4D7B-4C91-B9DA-22E2CBF164F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Average Student Grades", "Average Student Grades\Average Student Grades.csproj", "{BCEA4279-7415-4548-B8C3-8A2125312769}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +89,22 @@ Global
 		{3C42E6DA-2848-4B9D-82BB-7109D544AF13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C42E6DA-2848-4B9D-82BB-7109D544AF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C42E6DA-2848-4B9D-82BB-7109D544AF13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FCCF0B6-99D6-4E17-B137-4F0429D8F498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FCCF0B6-99D6-4E17-B137-4F0429D8F498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FCCF0B6-99D6-4E17-B137-4F0429D8F498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FCCF0B6-99D6-4E17-B137-4F0429D8F498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF8A682C-B618-4ED6-A9F2-C0E1649C493E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8A682C-B618-4ED6-A9F2-C0E1649C493E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8A682C-B618-4ED6-A9F2-C0E1649C493E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8A682C-B618-4ED6-A9F2-C0E1649C493E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFE2B235-4D7B-4C91-B9DA-22E2CBF164F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE2B235-4D7B-4C91-B9DA-22E2CBF164F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE2B235-4D7B-4C91-B9DA-22E2CBF164F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE2B235-4D7B-4C91-B9DA-22E2CBF164F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCEA4279-7415-4548-B8C3-8A2125312769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEA4279-7415-4548-B8C3-8A2125312769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEA4279-7415-4548-B8C3-8A2125312769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEA4279-7415-4548-B8C3-8A2125312769}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
