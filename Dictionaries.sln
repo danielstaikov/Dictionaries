@@ -41,6 +41,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cities by Continent and Cou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group Continents Countries and Cities", "Group Continents Countries and Cities\Group Continents Countries and Cities.csproj", "{69B96494-7012-43B7-A031-FEA7E3FD958B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wardrobe", "Wardrobe\Wardrobe.csproj", "{3340229B-C1C2-4A66-B9E8-6792867D79C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dict-Ref-Advanced", "Dict-Ref-Advanced\Dict-Ref-Advanced.csproj", "{14E9CC4A-638A-49D3-9356-2474578032D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Social Media Posts", "Social Media Posts\Social Media Posts.csproj", "{AA125504-7381-467D-A86D-40C7EF5B19E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Social Media Posts PreslavMihaylov", "Social Media Posts PM\Social Media Posts PreslavMihaylov.csproj", "{A1C4F8C3-B040-4F87-BC5A-384B80C85DE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test Dict 1.0", "Test Dict 1.0\Test Dict 1.0.csproj", "{94B59570-1594-47FA-AF94-AB0390E9665F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +133,26 @@ Global
 		{69B96494-7012-43B7-A031-FEA7E3FD958B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69B96494-7012-43B7-A031-FEA7E3FD958B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69B96494-7012-43B7-A031-FEA7E3FD958B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3340229B-C1C2-4A66-B9E8-6792867D79C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3340229B-C1C2-4A66-B9E8-6792867D79C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3340229B-C1C2-4A66-B9E8-6792867D79C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3340229B-C1C2-4A66-B9E8-6792867D79C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14E9CC4A-638A-49D3-9356-2474578032D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E9CC4A-638A-49D3-9356-2474578032D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E9CC4A-638A-49D3-9356-2474578032D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E9CC4A-638A-49D3-9356-2474578032D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA125504-7381-467D-A86D-40C7EF5B19E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA125504-7381-467D-A86D-40C7EF5B19E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA125504-7381-467D-A86D-40C7EF5B19E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA125504-7381-467D-A86D-40C7EF5B19E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C4F8C3-B040-4F87-BC5A-384B80C85DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C4F8C3-B040-4F87-BC5A-384B80C85DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C4F8C3-B040-4F87-BC5A-384B80C85DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C4F8C3-B040-4F87-BC5A-384B80C85DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94B59570-1594-47FA-AF94-AB0390E9665F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B59570-1594-47FA-AF94-AB0390E9665F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B59570-1594-47FA-AF94-AB0390E9665F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B59570-1594-47FA-AF94-AB0390E9665F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
