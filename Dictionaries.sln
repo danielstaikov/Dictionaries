@@ -61,7 +61,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ 02", "LINQ 02\LINQ 02.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objects 01", "Objects 01\Objects 01.csproj", "{FDA1206F-19E9-4837-9317-AFBA40A4D039}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objects 02", "Objects 02\Objects 02.csproj", "{4AE28694-2F2F-44A0-BC2D-B3F5A126E42B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class 01", "Objects 02\Class 01.csproj", "{4AE28694-2F2F-44A0-BC2D-B3F5A126E42B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
